@@ -1,3 +1,6 @@
+<div name="top">
+    <h1 align=center>Git Cheat Sheet</h1>
+</div>
 # Git Cheat Sheet
 
 Git é o sistema de controle de versão distribuído, livre e de código aberto, responsável por tudo relacionado ao GitHub que acontece localmente em seu computador. Esta folha de referência apresenta os comandos Git mais importantes e comumente utilizados para fácil consulta.
@@ -16,6 +19,8 @@ Para plataformas Linux e Solaris, a última versão está disponível no site of
 
 - **Git para Todas as Plataformas**
   - [Site do Git](http://git-scm.com)
+
+<p align="right">(<a href="#top">back to top</a>)
 
 ## CONFIGURAÇÃO
 
@@ -40,6 +45,8 @@ git config --global user.email "[email-válido]"
 git config --global color.ui auto
 ~~~
 
+<p align="right">(<a href="#top">back to top</a>)
+
 ## CONFIGURAÇÃO E INICIALIZAÇÃO
 
 Configurando informações do usuário, inicializando e clonando repositórios:
@@ -59,6 +66,8 @@ git clone [url]
 <br>
 
 Esses comandos são úteis para configurar um novo repositório Git ou clonar um repositório existente para o seu computador local.
+
+<p align="right">(<a href="#top">back to top</a>)
 
 ## STAGE E SNAPSHOT
 
@@ -104,10 +113,9 @@ git diff --staged
 git commit -m "[mensagem descritiva]"
 ~~~
 
-<br>
-
-
 Estes comandos são úteis para gerenciar as alterações nos arquivos e prepará-los para os próximos commits no Git.
+
+<p align="right">(<a href="#top">back to top</a>)
 
 ## BRANCH & MERGE
 
@@ -146,6 +154,8 @@ git merge [branch]
 git log
 ~~~
 
+<p align="right">(<a href="#top">back to top</a>)
+
 ## INSPECT & COMPARE
 
 Examinando logs, diffs e informações de objetos.
@@ -182,3 +192,25 @@ git diff branchB...branchA
 ~~~sh
 git show [SHA]
 ~~~
+
+<p align="right">(<a href="#top">back to top</a>)
+
+## IGNORING PATTERNS
+
+Evitando o staging ou commit acidental de arquivos.
+
+>Salva um arquivo com os padrões desejados como .gitignore com correspondências diretas ou globos curinga.
+~~~sh
+logs/
+*.notes
+pattern*/
+~~~
+
+<br>
+
+>Padrão de ignore para evitar o staging ou commit de arquivos específicos.
+~~~sh
+git config --global core.excludesfile [arquivo]
+~~~
+
+<p align="right">(<a href="#top">back to top</a>)
