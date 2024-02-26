@@ -7,6 +7,7 @@ Git é o sistema de controle de versão distribuído, livre e de código aberto,
 
 ## INSTALAÇÃO E GUIs
 
+
 Com instaladores específicos para cada plataforma para o Git, o GitHub também oferece a facilidade de se manter atualizado com as últimas versões da ferramenta de linha de comando, enquanto fornece uma interface gráfica do usuário para interações diárias, revisão e sincronização de repositórios.
 
 - **GitHub para Windows**
