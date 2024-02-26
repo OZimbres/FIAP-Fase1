@@ -22,7 +22,7 @@ Neste README.md você vai poder entender um pouco mais da nossa organização in
 - **[Git e Github](#git-e-github)**
   - *[O que é e para que serve](#o-que-e-e-pra-que-serve)*
   - *[Como Git e Github se complementam](#como-git-e-github-se-complementam)*
-  - *[Cheat Sheet]()*
+  - *[Cheat Sheet](#cheat-sheet)*
   - *[Dicas e boas práticas]()*
 - **[Branches]()**
   - *[O que é e para que serve]()*
