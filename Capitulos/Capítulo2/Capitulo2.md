@@ -36,3 +36,12 @@ Pode-se então entender a **engenharia de software** como o **corpo de conhecime
 <h2 align=center>IMERSÃO EM ENGENHARIA DE SOFTWARE</h2>
 
 ### ➡️ Conceitos
+
+>*Software ou Sistemas?*
+
+*Software* é aquilo que não é fisico, programações, aplicações.
+
+*Sistemas* é mais abrangente quanto ao conjunto de conteúdo, seja físico ou não físico.
+
+#### Diferentes Tipos de *Software*
+
