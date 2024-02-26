@@ -2,87 +2,52 @@
   <h1 align=center>🎓 FIAP 🎓</h1>
 </div>
 
-## 📌 Summary
+## 📌 Sumário
 
 ### FASE 1 - *Entendendo e Aprendendo o Front-End com Projetos*
 
-Repository for my college (FIAP) study content, more specifically the ***FASE 1***, which will contemplate these initials steps into the software engineer, front-end development and agile methodologies.
+>**Fase 1** vai de **02/19** até **03/20**
 
-This stage is divided in **11 chapters** of teaching ([table of contents](#table-of-contents))
+Repositório para estudos e gerência de grupos para os trabalhos da *FASE 1*
 
-(02/19 - 03/20)
+Neste README.md você vai poder entender um pouco mais da nossa organização interna, regras para proteger e manter a ordem e integridade dos arquivos **individuais** e **colaborativos**
 
 <hr name="table-of-contents">
 
-## 🗃️ Table of Contents
+## 🗃️ Tabela de Conteúdo
 
-- Capítulos
-  - [Capítulo 1](#capitulo1) | [Capítulo 2](#capitulo2) | [Capítulo 3](#capitulo3) | [Capítulo 4](#capitulo4) | [Capítulo 5](#capitulo5) | [Capítulo 6](#capitulo6) | [Capítulo 7](#capitulo7) | [Capítulo 8](#capitulo8) | [Capítulo 9](#capitulo9) | [Capítulo 10](#capitulo10) | [Capítulo 11](#capitulo11)
-- Atividades
-  - [Atividade Capítulo 5]() | [Atividade Capítulo 7]()
+- **[Sobre nosso Grupo X](#sobre-o-grupo-x)**
+  - *[Objetivos]()*
+  - *[Motivação]()*
+- **[Git e Github](#git-e-github)**
+  - *[O que é e para que serve]()*
+  - *[Cheat Sheet]()*
+  - *[Dicas e boas práticas]()*
+- **[Branches]()**
+  - *[O que é e para que serve]()*
+  - *[Organização das branches]()*
+  - *[Dicas e boas práticas]()*
 
-<hr name="capitulo1">
+<hr name="sobre-o-grupo-x">
 
-## ✅ Capítulo 1
+## ✅ Sobre o nosso Grupo X
 
-Capítulo 1 - *Criando a Agrotech com a The future is Now*
-
-- Anotações do Capítulo 1 (<a href="./Capitulos/Capitulo1/Capitulo1.md">Capitulo1.md</a>)
+>*Onde queremos chegar?*
 
 <p align="right">(<a href="#readme-top">back to top</a>)
 
-<hr name="capitulo2">
+<hr name="git-e-github">
 
-## ⭕ Capítulo 2
+## ⭕ Git e GitHub
 
-Capítulo 2 - *Primeiros Passos Técnicos da Imersão em Engenharia de Software*
-
-- Anotações do Capítulo 2 (<a href="./Capitulos/Capitulo2/Capitulo2.md">Capitulo2.md</a>)
+>*É realmente importante saber?*
 
 <p align="right">(<a href="#readme-top">back to top</a>)
 
 <hr name="capitulo3">
 
-## ✅ Capítulo 3
+## ✅ Branches
 
-Capítulo 3 - *Entendendo Todas as Linguagens para a Entrega do Front-End*
-
-- Anotações do Capítulo 3 ([Capitulo3.md](./Capitulos/Capitulo3/Capitulo3.md))
-- Projetos
-  - Traveller ([index.html](./Capitulos/Capitulo3/Traveller/index.html))
-    - Primeiro projeto para ficar famirializado com o desenvolvimento front-end.
-    - HTML | CSS
+>*Vamos usar?*
 
 <p align="right">(<a href="#readme-top">back to top</a>)
-
-<hr name="capitulo4">
-
-## ⭕ Capítulo 4
-
-<hr name="capitulo5">
-
-## ⭕ Capítulo 5
-
-<hr name="capitulo6">
-
-## ⭕ Capítulo 6
-
-<hr name="capitulo7">
-
-## ⭕ Capítulo 7
-
-<hr name="capitulo8">
-
-## ⭕ Capítulo 8
-
-<hr name="capitulo9">
-
-## ⭕ Capítulo 9
-
-<hr name="capitulo10">
-
-## ⭕ Capítulo 10
-
-<hr name="capitulo11">
-
-## ⭕ Capítulo 11
