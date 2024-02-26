@@ -30,7 +30,7 @@ Neste README.md você vai poder entender um pouco mais da nossa organização in
 
 <hr name="sobre-o-grupo-x">
 
-## ✅ Sobre o nosso Grupo X
+## 🟢 Sobre o nosso Grupo X
 
 >*Onde queremos chegar?*
 
@@ -38,7 +38,7 @@ Neste README.md você vai poder entender um pouco mais da nossa organização in
 
 <hr name="git-e-github">
 
-## ⭕ Git e GitHub
+## 🟣 Git e GitHub
 
 >*É realmente importante saber?*
 
@@ -46,7 +46,7 @@ Neste README.md você vai poder entender um pouco mais da nossa organização in
 
 <hr name="capitulo3">
 
-## ✅ Branches
+## 🔴 Branches
 
 >*Vamos usar?*
 
