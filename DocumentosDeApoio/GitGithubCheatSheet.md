@@ -214,3 +214,86 @@ git config --global core.excludesfile [arquivo]
 ~~~
 
 <p align="right">(<a href="#top">back to top</a>)
+
+## SHARE & UPDATE
+
+Recuperando atualizações de outro repositório e atualizando repositórios locais.
+
+>Adiciona um URL do git como um alias.
+~~~sh
+git remote add [alias] [url]
+~~~
+
+<br>
+
+>Baixa todas as branches daquele repositório Git remoto.
+~~~sh
+git fetch [alias]
+~~~
+
+<br>
+
+>Mescla uma branch remota na sua branch atual para atualizá-la.
+~~~sh
+git merge [alias]/[branch]
+~~~
+
+<br>
+
+>Transmite commits da branch local para a branch remota do repositório.
+~~~sh
+git push [alias] [branch]
+~~~
+
+<br>
+
+>Baixa e mescla quaisquer commits da branch remota de rastreamento.
+~~~sh
+git pull
+~~~
+
+## REWRITE HISTORY
+
+Reescrevendo branches, atualizando commits e limpando o histórico.
+
+>Aplica quaisquer commits da branch atual à frente da especificada.
+~~~sh
+git rebase [branch]
+~~~
+
+<br>
+
+>Limpa a área de preparação, reescreve a árvore de trabalho a partir do commit especificado.
+~~~sh
+git reset --hard [commit]
+~~~
+
+## TEMPORARY COMMITS
+
+Armazenar temporariamente arquivos modificados e rastreados para mudar de branches.
+
+>Listar as mudanças salvas temporariamente.
+~~~sh
+git stash list
+~~~
+
+<br>
+
+>Salvar as mudanças modificadas e preparadas.
+~~~sh
+git stash
+~~~
+
+<br>
+
+>Aplicar as mudanças do topo da pilha de stash.
+~~~sh
+git stash pop
+~~~
+
+<br>
+
+>Descartar as mudanças do topo da pilha de stash.
+~~~sh
+git stash drop
+~~~

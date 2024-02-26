@@ -61,7 +61,7 @@ O Git ajuda você a controlar suas alterações de código, enquanto o Github fa
 
 ### Cheat Sheet
 
-Uma [*colinha*](./assets/GitGithubCheatSheet.md) para os comandos **git**
+Uma [*colinha*](./DocumentosDeApoio/GitGithubCheatSheet.md) para os comandos **git**
 
 <p align="right">(<a href="#readme-top">back to top</a>)
 
