@@ -48,6 +48,6 @@ Neste README.md você vai poder entender um pouco mais da nossa organização in
 
 ## 🔴 Branches
 
->*Vamos usar?*
+>*Vamos usar mesmo?*
 
 <p align="right">(<a href="#readme-top">back to top</a>)
