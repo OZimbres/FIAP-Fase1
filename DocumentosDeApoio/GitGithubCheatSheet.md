@@ -1,5 +1,6 @@
+<p align="left">(<a href="../../README.md">readme.md</a>)</p>
 <div name="top">
-    <h1 align=center>Git Cheat Sheet</h1>
+  <h1 align=center>Git Cheat Sheet</h1>
 </div>
 # Git Cheat Sheet
 
