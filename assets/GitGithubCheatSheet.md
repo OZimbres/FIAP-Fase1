@@ -108,3 +108,77 @@ git commit -m "[mensagem descritiva]"
 
 
 Estes comandos são úteis para gerenciar as alterações nos arquivos e prepará-los para os próximos commits no Git.
+
+## BRANCH & MERGE
+
+Isolando o trabalho em branches, alterando contexto e integrando mudanças.
+
+>Lista suas branches. Um * aparecerá ao lado da branch atualmente ativa.
+~~~sh
+git branch
+~~~
+
+<br>
+
+>Cria uma nova branch no commit atual.
+~~~sh
+git branch [nome-da-branch]
+~~~
+
+<br>
+
+>Muda para outra branch e a verifica no seu diretório de trabalho.
+~~~sh
+git checkout
+~~~
+
+<br>
+
+>Mescla a história da branch especificada na atual.
+~~~sh
+git merge [branch]
+~~~
+
+<br>
+
+>Mostra todos os commits na história da branch atual.
+~~~sh
+git log
+~~~
+
+## INSPECT & COMPARE
+
+Examinando logs, diffs e informações de objetos.
+
+>Mostra o histórico de commits para a branch atualmente ativa.
+~~~sh
+git log
+~~~
+
+<br>
+
+>Mostra os commits na branchA que não estão na branchB.
+~~~sh
+git log branchB..branchA
+~~~
+
+<br>
+
+>Mostra os commits que mudaram o arquivo, mesmo em renomeações.
+~~~sh
+git log --follow [arquivo]
+~~~
+
+<br>
+
+>Mostra a diferença do que está na branchA que não está na branchB.
+~~~sh
+git diff branchB...branchA
+~~~
+
+<br>
+
+>Mostra qualquer objeto no Git em formato legível para humanos.
+~~~sh
+git show [SHA]
+~~~
