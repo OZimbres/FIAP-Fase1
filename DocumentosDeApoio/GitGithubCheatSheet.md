@@ -2,7 +2,6 @@
 <div name="top">
   <h1 align=center>Git Cheat Sheet</h1>
 </div>
-# Git Cheat Sheet
 
 Git é o sistema de controle de versão distribuído, livre e de código aberto, responsável por tudo relacionado ao GitHub que acontece localmente em seu computador. Esta folha de referência apresenta os comandos Git mais importantes e comumente utilizados para fácil consulta.
 
