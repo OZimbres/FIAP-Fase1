@@ -19,6 +19,7 @@ Neste README.md você vai poder entender um pouco mais da nossa organização in
 - **[Sobre nosso Grupo X](#sobre-o-grupo-x)**
   - *[Objetivos]()*
   - *[Motivação]()*
+  - *[Tabela de Membros]()*
 - **[Git e Github](#git-e-github)**
   - *[O que é e para que serve](#o-que-e-e-pra-que-serve)*
   - *[Como Git e Github se complementam](#como-git-e-github-se-complementam)*
