@@ -16,6 +16,7 @@ Com instaladores específicos para cada plataforma para o Git, o GitHub também 
 - **GitHub para Mac**
   - [Download](https://mac.github.com)
 
+**(O que eu, lorenzo oliveira, recomendo!)**
 Para plataformas Linux e Solaris, a última versão está disponível no site oficial do Git.
 
 - **Git para Todas as Plataformas**
