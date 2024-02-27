@@ -79,3 +79,30 @@ A engenharia de *software* aplica práticas existentes em algumas áreas da enge
 - Trabalho em equipe
 - Gerenciamento do processo de desenvolvimento
 - Custos e prazos admissíveis
+
+#### *PRINCIPAIS TIPOS DE* **SOFTWARE**
+
+A partir do contexto hitórico da evolução do *hardware* e do *software*, foram construídos os alicerces do funcionamento do *software*
+
+TIPOS DE SOFTWARE
+
+- <details><summary>SISTEMA</summary>É o conjunto de instruções que transformam o hardware num sistema com o qual o usuário pode interagir e fazer funcionar os seus programas. Ex: MAC, Linux, Windows
+</details>
+
+- <details><summary>APLICATIVO</summary>São programas que permitem aos usuários executar determinadas tarefas. Exemplos: Word, Paint, Excel e calculadora.
+</details>
+
+- <details><summary>SERVIÇO</summary>É um modelo de compartilhamento de software, no qual é liberado apenas o acesso ao serviço oferecido, licenciado para uso por meio da internet. Não é vendido nem instalado localmente. Exemplos: Google Docs e PDF Converter.
+</details>
+
+- <details><summary>GESTÃO</summary>Auxilia na gestão empresarial, tem como objetivo otimizar a rotina da empresa, fornecendo uma informatização inteligente dos processos, como controle financeiro, compras e estoque. Exemplo: ERP.
+</details>
+
+- <details><summary>LIVRE</summary>Está disponível e é distribuído livremente. Pode ser executado, adaptado, modificado e redistribuído de acordo com a necessidade de cada usuário. Ao redistribuir a nova versão, pode ser gratuito ou não.
+</details>
+
+- <details><summary>ABERTO</summary>É um software cujo código é acessível a qualquer pessoa. Pode ser executado, modificado, estudado e distribuído gratuitamente. Sua filosofia é voltada para a colaboração entre usuários.
+</details>
+
+- <details><summary>PROPRIETÁRIO</summary>Pertence a um fabricante, que detém seus direitos de uso, edição e redistribuição. O usuário deve pagar por uma licença e só pode utilizar o <i>software</i> em um contexto restrito. Exemplo: Office, Photoshop e Winzip
+</details>
