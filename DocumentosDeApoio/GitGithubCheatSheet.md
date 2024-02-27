@@ -255,6 +255,8 @@ git push [alias] [branch]
 git pull
 ~~~
 
+<p align="right">(<a href="#top">back to top</a>)
+
 ## REWRITE HISTORY
 
 Reescrevendo branches, atualizando commits e limpando o histórico.
@@ -270,6 +272,8 @@ git rebase [branch]
 ~~~sh
 git reset --hard [commit]
 ~~~
+
+<p align="right">(<a href="#top">back to top</a>)
 
 ## TEMPORARY COMMITS
 
@@ -300,3 +304,5 @@ git stash pop
 ~~~sh
 git stash drop
 ~~~
+
+<p align="right">(<a href="#top">back to top</a>)
