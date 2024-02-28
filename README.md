@@ -25,7 +25,7 @@ Neste README.md você vai poder entender um pouco mais da nossa organização in
   - *[Como Git e Github se complementam](#como-git-e-github-se-complementam)*
   - *[Cheat Sheet](#cheat-sheet)*
   - *[Dicas e boas práticas]()*
-- **[Branches]()**
+- **[Branches](#branches)**
   - *[O que é e para que serve]()*
   - *[Organização das branches]()*
   - *[Dicas e boas práticas]()*
@@ -66,7 +66,7 @@ Uma [*colinha*](./DocumentosDeApoio/GitGithubCheatSheet.md) para os comandos **g
 
 <p align="right">(<a href="#readme-top">back to top</a>)
 
-<hr name="capitulo3">
+<hr name="branches">
 
 ## 🔴 Branches
 
