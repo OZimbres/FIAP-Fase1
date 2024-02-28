@@ -59,6 +59,10 @@ Capítulo 3 - *Entendendo Todas as Linguagens para a Entrega do Front-End*
 
 ## ⭕ Capítulo 4
 
+Capítulo 4 - *Desenvolver ou Primeiro Mapear? Entenda com a Prática em Projetos*
+
+- Anotações do Capítulo 4 ([Capitulo4.md](./Capitulos/Capitulo4/Capitulo4.md))
+
 <hr name="capitulo5">
 
 ## ⭕ Capítulo 5
