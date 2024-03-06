@@ -42,3 +42,7 @@ Sendo assim, é possível concluir que um projeto tem as seguintes característi
   - Geralmente compartilham com outras áres (operacionais) ou até outros projetos recursos (pessoas ou equiipamentos) que nem sempre estarão disponíveis no momento necessário. Além disso, o bem mais precioso dos projetos são as pessoas, que têm defeitos, limitações e egos diferentes
 - #### Sequência de Atividades
   - Compreendem um número de atividades ou tarefas conectadas que devem ser completadas em certa ordem e que, ao final, atingem algum objetivo.
+
+<p align="right">(<a href="#readme-top">back to top</a>)
+
+## 🟢
