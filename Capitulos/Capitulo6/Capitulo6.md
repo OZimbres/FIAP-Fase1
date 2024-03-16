@@ -59,13 +59,13 @@ resultado = int(valor1) + int(valor2)
 print(resultado)
 ~~~
 
-<p align="right">(<a href="#readme-top">back to top</a>)
+<p align="right">(<a href="#readme-top">back to top</a>
 
 ## 🟢 Aprendendo com a Mão na Massa!
 
-Uma das melhores formas de aprender algo é colocando a mão na massa, não é esmo?
+Uma das melhores formas de aprender algo é colocando a mão na massa, não é mesmo?
 
-<h3>Etapa 1 - Instalando Python</h3>
+## 🟢 Etapa 1 - Instalando Python
 
 <details close>
     <summary><span>Instalação</span></summary>
@@ -84,13 +84,15 @@ python --version
 
 </details>
 
-### Etapa 2 - Conhecendo Alguns Comandos
+<p align="right">(<a href="#readme-top">back to top</a>)
+
+## 🟢 Etapa 2 - Conhecendo Alguns Comandos
 
 Toda linguagem de programação possui algumas palavras reservadas, que são palavreas que têm algum significado dentro daquela linguagem de programação. Essas palavras reservadas podem ser comandos, por exmplo, que realizam tarefas específicas.
 
 para exibir uma mensaem na tela do computador, usaremos o comando ***print()***. A sintraxe desse comando nos obrifa a fornecer, entre parênteses, o texto que queremos exibir na tela.
 
-#### Tipos de Formatações do Print
+## 🟢 Tipos de Formatações do Print
 
 Há algumas maneiras de formatar o *print()*.
 
@@ -110,7 +112,7 @@ valor3 = 34955.95847
 
 ---
 
-#### **Forma "raiz"**
+### **Forma "raiz"**
 
 Formatando incluindo **vírgula** entre as **str**
 
@@ -122,7 +124,7 @@ print("Valor 1 = ", valor1, "\nValor 2 = ", valor2,"\nValor 3 = ", valor3)
 
 ---
 
-#### **Formato format()**
+### **Formato format()**
 
 Vai pegar o primeiro **par de chaves** e alocar com o primeiro **valor passado**, e assim por diante
 
@@ -132,8 +134,52 @@ Vai pegar o primeiro **par de chaves** e alocar com o primeiro **valor passado**
 print("Valor 1 = {:10.2f}\nValor 2 = {:10.2f}\nValor 3 = {:10.2f}".format(valor1, valor2, valor3))
 ~~~
 
----
+***TEM QUE CONTINUAR, PAREI NO MEIO DO VÍDEO***
 
-##### ****
+## 🟢 Variável
+
+### Dados - Tipos e instrução de Saída
+
+***VER O VÍDEO***
+
+### Variáveis de Memória e Casting
+
+***VER O VÍDEO***
+
+### Interpretador Python
+
+Para abrir o prompt de comando do python, basta digitar *python* no terminal
+
+![Promp de Comando - Python](cmdPython.png)
+
+Com o interpretador do Python em execução, tudo o que digitarmos nessa linguagem será imediatamente interpretado e executado após teclar **ENTER**.<br>Vamos tentar executar o seguinte comando, pressionando **ENTER** ao final
+
+~~~python
+print("Olá, mundo!")
+~~~
+
+Se tudo correu bem, após teclar **ENTER**, a mensagem "Olá, mundo!" deve ter sido exibida na tela.
+
+Variável é um espaço que um programa pode reservar na memória *RAM* do computador para armazenar temporariamente alguns dados, como algo que o usuário tenha digitado ou o resultado de um cálculo.
+
+Algumas linguagens de programação possuem comandos específicos para criação de variáveis, mas a linguagem **Python** entende que uma palavra que seja escrita ao lado esquerdo do sinal de **=** (igual) é uma variável e cria automaticamente caso seja seu primeiro uso.<br>Então se escrevermos os comandos a seguir (lembrando de teclar ENTER ao final de cada linha), criaremos uma variável com o nome do usuário e exibiremos na tela:
+
+~~~python
+nome = "Kevin Mitnick"
+print(nome + "é um programador incrível!")
+~~~
+
+Infelizmente, o código não está recebendo o nome do usuário, apenas exibindo um nome fixo. Para permitir aos usuários digitarem informações dentro de variáveis, devemos utilizar o comando ***input()***
+
+Em sua sintaxe, o comando ***input()*** exige a presença de uma variavel antes do comando e de uma mensagem de texto entre parênteses: ***nome_da_variavel = input("Mensagem de texto:")***
+
+Reescrevendo o programa anterior para aceitar que o usuário digite seu próprio nome, teremos o seguinte:
+
+~~~python
+nome = input("Por favor, digite seu  nome:")
+print(nome + "é um programador incrível")
+~~~
+
+Para sair do interpretador do Python, basta escrever ***exit()*** e teclar *ENTER*
 
 <p align="right">(<a href="#readme-top">back to top</a>)
