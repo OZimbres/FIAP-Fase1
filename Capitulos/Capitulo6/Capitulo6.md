@@ -68,10 +68,26 @@ Uma das melhores formas de aprender algo é colocando a mão na massa, não é e
 <h3>Etapa 1 - Instalando Python</h3>
 
 <details close>
-    <summary><span>Passo a Passo</span></summary>
+    <summary><span>Instalação</span></summary>
 
-- Instalar Python ([site](https://www.python.org))
+1. Instalar Python ([site](https://www.python.org))
+
+Após realizar o download da última versão, execute o instalador e ficar atento à opção de "adicionar ao path"
+
+![GUI do Instalador Python](instaladorPythonGUI.png)
+
+Para saber se tudo correu bem, basta abrir o terminal e inserir
+
+~~~sh
+python --version
+~~~
 
 </details>
+
+### Etapa 2 - Conhecendo Alguns Comandos
+
+Toda linguagem de programação possui algumas palavras reservadas, que são palavreas que têm algum significado dentro daquela linguagem de programação. Essas palavras reservadas podem ser comandos, por exmplo, que realizam tarefas específicas.
+
+para exibir uma mensaem na tela do computador, usaremos o comando *print()*. A sintraxe desse comando nos obrifa a fornecer, entre parênteses, o texto que queremos exibir na tela.
 
 <p align="right">(<a href="#readme-top">back to top</a>)
