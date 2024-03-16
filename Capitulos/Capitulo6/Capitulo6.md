@@ -108,7 +108,9 @@ valor2 = 45.1
 valor3 = 34955.95847
 ~~~
 
-##### **Forma "raiz"**
+---
+
+#### **Forma "raiz"**
 
 Formatando incluindo **vírgula** entre as **str**
 
@@ -118,7 +120,9 @@ Formatando incluindo **vírgula** entre as **str**
 print("Valor 1 = ", valor1, "\nValor 2 = ", valor2,"\nValor 3 = ", valor3)
 ~~~
 
-##### **Formato format()**
+---
+
+#### **Formato format()**
 
 Vai pegar o primeiro **par de chaves** e alocar com o primeiro **valor passado**, e assim por diante
 
@@ -127,6 +131,8 @@ Vai pegar o primeiro **par de chaves** e alocar com o primeiro **valor passado**
 ~~~python
 print("Valor 1 = {:10.2f}\nValor 2 = {:10.2f}\nValor 3 = {:10.2f}".format(valor1, valor2, valor3))
 ~~~
+
+---
 
 ##### ****
 
