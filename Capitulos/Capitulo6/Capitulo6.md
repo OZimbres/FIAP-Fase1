@@ -28,8 +28,48 @@ Na *computação*, duas das formas mais comuns de representação algorítmica s
 
 A representação através de um *fluxograma* cont´m uma sequência de blocos geométricos indicando a ordem em que os eventos ocorrerão.<br> Já a representação através de *pseudocógdigo* é feita através de texto, com uma linguagem que não é uma linguagem de programaçãp, mas que apresenta uma estrutura formal.
 
-![Fluxograma representando a soma entre dois valores e sua exibição](image.png)
+Fluxograma:
+
+![Fluxograma representando a soma entre dois valores e sua exibição](fluxograma.png)
+
+Algoritmo:
+
+~~~
+algoritmo "Soma"
+variáveis
+    valor1, valor2, resultado: inteiro
+início
+    Escreva "Digite o primeiro valor"
+    Leia valor1
+    Escreva "Digite o segundo valor"
+    Leia valor2
+    resultado = valor1 + valor2
+    Escreva resultado
+Fim
+~~~
+
+Pode-se observar um mesmo algoritmo representado em duas formas distintas (*fluxograma* e *pseudocódigo*) e nenhum programa de computador foi escrito até esse momento.
+
+Esse mesmo algoritmo pode ser *implementado* usando uma linguagem de programação qualquer, como **Python**, **Java**, **C++**, **PHP**, etc.
+
+~~~python
+valor1 = input("Digite o primeiro valor ")
+valor2 = input("Digite o segundo valor ")
+resultado = int(valor1) + int(valor2)
+print(resultado)
+~~~
 
 <p align="right">(<a href="#readme-top">back to top</a>)
 
-## 🟢
+## 🟢 Aprendendo com a Mão na Massa!
+
+Uma das melhores formas de aprender algo é colocando a mão na massa, não é esmo?
+
+<details close>
+    <summary><h3>Etapa 1 - Instalando Python</h3></summary>
+
+- Instalar Python ([site](https://www.python.org))
+
+</details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)
