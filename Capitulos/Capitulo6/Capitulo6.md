@@ -88,6 +88,46 @@ python --version
 
 Toda linguagem de programação possui algumas palavras reservadas, que são palavreas que têm algum significado dentro daquela linguagem de programação. Essas palavras reservadas podem ser comandos, por exmplo, que realizam tarefas específicas.
 
-para exibir uma mensaem na tela do computador, usaremos o comando *print()*. A sintraxe desse comando nos obrifa a fornecer, entre parênteses, o texto que queremos exibir na tela.
+para exibir uma mensaem na tela do computador, usaremos o comando ***print()***. A sintraxe desse comando nos obrifa a fornecer, entre parênteses, o texto que queremos exibir na tela.
+
+#### Tipos de Formatações do Print
+
+Há algumas maneiras de formatar o *print()*.
+
+Vamos fazer os tipos de formatação de print a partir destas informações:
+
+~~~python
+"""
+inteiro = int
+real = float
+texto = str
+logica = bool
+"""
+valor1 = 875.56
+valor2 = 45.1
+valor3 = 34955.95847
+~~~
+
+##### **Forma "raiz"**
+
+Formatando incluindo **vírgula** entre as **str**
+
+>Forma "raiz" pois uma grande maioria das linguagens de programação conseguem fazer esse tipo de formatação
+
+~~~python
+print("Valor 1 = ", valor1, "\nValor 2 = ", valor2,"\nValor 3 = ", valor3)
+~~~
+
+##### **Formato format()**
+
+Vai pegar o primeiro **par de chaves** e alocar com o primeiro **valor passado**, e assim por diante
+
+**:10.2f** -> Seta como padrão 10 dígitos (8 para inteiros e 2 casas decimais)
+
+~~~python
+print("Valor 1 = {:10.2f}\nValor 2 = {:10.2f}\nValor 3 = {:10.2f}".format(valor1, valor2, valor3))
+~~~
+
+##### ****
 
 <p align="right">(<a href="#readme-top">back to top</a>)
