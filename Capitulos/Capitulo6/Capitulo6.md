@@ -65,8 +65,10 @@ print(resultado)
 
 Uma das melhores formas de aprender algo é colocando a mão na massa, não é esmo?
 
+<h3>Etapa 1 - Instalando Python</h3>
+
 <details close>
-    <summary><h3>Etapa 1 - Instalando Python</h3></summary>
+    <summary><span>Passo a Passo</span></summary>
 
 - Instalar Python ([site](https://www.python.org))
 
