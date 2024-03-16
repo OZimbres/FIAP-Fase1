@@ -198,4 +198,10 @@ python nome_do_arquivo.py
 
 ## 🟢 Etapa 3- Esqueça a Tela Preta!
 
+As IDEs (*Integrated Development Environment*) são ferramentas usadas para escrevermos programas em uma linguagem de programação específica. Elas não contém apenas os editores de texto, mas ferramentas que permitem verificar erros no código, executar o programa diretamente no interpretador ou compilador e, em alguns casos, montar interfaces gráficas.
+
+Para o desenvolvimento de Python, é recomendado utilizar o PyCharm.
+
+Para instalar o PyCharm basta [baixar o instalador](https://www.jetbrains.com/pycharm/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)
