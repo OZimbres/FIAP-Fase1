@@ -91,7 +91,7 @@ Para que os projetos terminem no prazo acordade próximos aos gastos previstos e
 
 Padrões começam a surgir na década de 1950. Técnicas combinadas acabaram criando o *Pert-CPM* no início da década de 1960, quando se definiu que os projetos deveriam possuir um escopo, tempo e custo predeterminados.
 
-No início da década de 1980 todas as práticas normalmente aceitas e aplicadas com sucesso em várias empresas foram reunidas em um *white paper* que na década de 1990 se tornou o que conhecemos hoje como **PMBOK** - *Project Management Body of Knowledge*. Trata-se de um guia de boas práticas.
+No início da década de 1980 todas as práticas normalmente aceitas e aplicadas com sucesso em várias empresas foram reunidas em um *white paper* que na década de 1990 se tornou o que conhecemos hoje como ***PMBOK*** - *Project Management Body of Knowledge*, publicado pelo ***PMI*** - *Project management Institute*. Trata-se de um guia de boas práticas.
 
 A gerência de projetos traz uma série de benefícios, como:
 
@@ -107,3 +107,26 @@ A gerência de projetos traz uma série de benefícios, como:
 A gerência de projetos é constituída por uma série de ferramentas e técnicas utilizadas por pssoas para descrever, organizar e monitorar o andamento das atividades do projeto.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🟢 O Gerente de Projetos
+
+Principal objetivo do Gerente de Projetos é garantir que todas as boas práticas no gerenciamento sejam devidamente aplicadas. A principal característica é o **lado humano**, pois no final, os projetos são feitos por pessoas, para pessoas.
+
+Algumas habilidades fundamentais:
+
+| Habilidade | Descrição |
+| :---: | :--- |
+| **Liderança** | Enquanto os gerentes concentram-se em resultados e na viabilização do projeto de acordo com as exigências, o líder expressa sua visão, busca o consenso quanto às metas estratégicas, direciona, inspira e motiva sua equipe. |
+| **Comunicação** | Precisa ser um comunicador nato. As formas oral e escrita de comunicação constituem o alicerce para um projeto bem-sucedido. Além disso, deve assegurar que as informações sejam explícitas, claras e completas em todas as atividades de comunicação do projeto, como documentos, reuniões, entre outros. |
+| **Elaboração de Orçamentos** | Conhecimentos básicos de finanças e contabilidade são necessários, pois o gerente de projetos precisa estabelecer (realizando estimativas de custos) e controlar o orçamento.<br> Ao gastar o dinheiro, é preciso ler e entender as cotações dos fornecedores, preparar ou supervisionar ordens de compra, entre outras necessidades. |
+| **Planejamento** | Esta habilidde é extremamente importante, pois, para que o projeto saia no prazo, com o orçamento e de acordo com as especificações, deve-se estabelecer como serão as atividades, quem fará o que e quando é essencial. |
+| **Aptidões Organizacionais** | Manter organizado e fazer um bom gerenciamento de tempo são passos essenciais para um projeto sair conforme planejado. |
+| **Negociação e Influência** | Para a solução de problemas, são necessárias competências de negociação para a definição do escopo, orçamentos, alocação de negócios compartilhados e muito mais. A influência é necessária para converncer as partes interessadas por uma determinada alternativa em uma tomada de decisão mesmo quando preferem inicialmente outra alternativa.<br> Para tanto, é necessário conhecer muito bem as estruturas formais e informais de todas as organizações relacionadas ao projeto. Poder e política são técnicas usadas na influência. |
+| **Resolução de Conflitos** | Como são compostos por pessoas que possuem as mais variadas habilidades, opiniões, credos e índoles, os projetos apresntam problemas Os gerentes precisam ter habilidades para identificar sintomas, examiná-los, tomar e implementar uma decisão. O momento da implementação é tão importante quanto a decisão em si, que, se colocada em prática tarde demais, pode se tornar uma péssia opção. |
+| **Formação e Motivação de Equipes** | Considerado fundamental na base da formação da queipe, é o gerente de projeto que vai definir o espírito da equipe e o ajudará em diversas tarefas da sua formação, tornando-a funcional. A motivação da equipe, especialmente em projetos muito longos ou problemáticos, é outra responsabilidade importante do gerente de projeto. |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🟢 Ativos de Processos Organizacionais
+
+Trata-se de planos, processos, políticas, procedimentos e quaisquer bases de conhecimento utilizadas pela empresa. Uqlauqer conhecimento, prática ou artefato de todas as organizações envolvidas que possam ser úteis para executar ou administrar o projeto.
