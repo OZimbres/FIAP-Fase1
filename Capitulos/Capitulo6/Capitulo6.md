@@ -59,7 +59,7 @@ resultado = int(valor1) + int(valor2)
 print(resultado)
 ~~~
 
-<p align="right">(<a href="#readme-top">back to top</a>
+<p align="right">(<a href="#readme-top">back to top</a>)
 
 ## 🟢 Aprendendo com a Mão na Massa!
 
@@ -181,5 +181,21 @@ print(nome + "é um programador incrível")
 ~~~
 
 Para sair do interpretador do Python, basta escrever ***exit()*** e teclar *ENTER*
+
+Agora vamos reunir todas as linhas do nosso programa em um só arquivo, qu damos o nome de ***script***. Para fazer isso, basta abrir o Notepad.<br>No editor de texto aberto, digite o código do programa e salve em formato **.py**
+
+![Salvando arquivo python](salvandoPython.png)
+
+Uma vez que o arquivo que contém uma série de comandos em Python, podemos executas esse script diretamente do terminal.
+
+Para executar um arquivo Python, basta escrever:
+
+~~~sh
+python nome_do_arquivo.py
+~~~
+
+<p align="right">(<a href="#readme-top">back to top</a>)
+
+## 🟢 Etapa 3- Esqueça a Tela Preta!
 
 <p align="right">(<a href="#readme-top">back to top</a>)
