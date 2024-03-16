@@ -63,6 +63,8 @@ Capítulo 4 - *Desenvolver ou Primeiro Mapear? Entenda com a Prática em Projeto
 
 - Anotações do Capítulo 4 ([Capitulo4.md](./Capitulos/Capitulo4/Capitulo4.md))
 
+<p align="right">(<a href="#readme-top">back to top</a>)
+
 <hr name="capitulo5">
 
 ## ⭕ Capítulo 5
@@ -70,6 +72,12 @@ Capítulo 4 - *Desenvolver ou Primeiro Mapear? Entenda com a Prática em Projeto
 <hr name="capitulo6">
 
 ## ⭕ Capítulo 6
+
+Capítulo 6 - *Primeiros Passos de utilização de Algoritmos e Fluxogramas*
+
+- Anotações do Capítulo 6 ([Capitulo6.md](./Capitulos/Capitulo6/Capitulo6.md))
+
+<p align="right">(<a href="#readme-top">back to top</a>)
 
 <hr name="capitulo7">
 
