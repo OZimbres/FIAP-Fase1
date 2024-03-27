@@ -40,7 +40,7 @@ Sistema é um conjunto de informações e procedimentos que interagem entre si p
 
 A engenharia representa uma metodologia unida ao esforço para empreender resultados. Esses resultados são provenientes de trabalhos focados em diversas áreas, nas quais se possui um amplo conhecimento a fim de propor soluções às necessidades.
 
-#### *DEFINIÇÃO DE* **ENGENHARUA DE SOFTWARE**
+#### *DEFINIÇÃO DE* **ENGENHARIA DE SOFTWARE**
 
 A engenhraria de *software* envolve um conjunto de tarefas que se iniciam no momento que são registradas as necessidades das partes interessadas e terminamno momento em que o software deixa de ser utilizado por seus usuários.
 
